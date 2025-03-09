@@ -6,7 +6,7 @@
 **Bachelor of Technology (B. Tech) in Computer Science Engineering**  
 **CGPA**: 9.52/10
 
----
+
 
 ## Professional Experience
 
